@@ -1799,7 +1799,7 @@ ul.locat_icon li a {
 
 .Library {
     background-color: #fff;
-    padding: 90px 0px;
+    padding: 30px 0px;
 }
 
 .Library .titlepage {
@@ -1809,7 +1809,7 @@ ul.locat_icon li a {
 
 .Library .titlepage h2 {
     padding: 0px 0px 20px 0px;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     color: #b32137;
     line-height: 50px;
